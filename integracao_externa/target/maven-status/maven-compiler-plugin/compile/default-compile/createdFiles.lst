@@ -1,0 +1,4 @@
+br\com\psg\CamundaBpmProcessApplication.class
+br\com\psg\ProcessConstants.class
+br\com\psg\LoggerDelegate.class
+br\com\psg\Etapa.class
